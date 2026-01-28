@@ -269,4 +269,3 @@ Para dúvidas ou problemas:
 
 **Desenvolvido com ❤️ para ajudar estudantes a alcançar 1000 no ENEM**
 
-Última atualização: 27 de novembro de 2024
